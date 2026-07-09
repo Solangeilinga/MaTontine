@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --green: #1B6B3A;
+  --green-light: #E8F2EC;
+  --green-dark: #134d2b;
+  --gold: #C9963A;
+  --gold-light: #F7F0E3;
+  --slate: #2C3E2D;
+  --gray: #6B7B6C;
+  --off-white: #F7F9F7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #2C3E2D;
+}
