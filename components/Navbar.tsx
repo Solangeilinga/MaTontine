@@ -52,7 +52,9 @@ export default function Navbar() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="#telecharger"
+            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-5 py-2 rounded-xl text-sm font-semibold transition-all"
             style={{ backgroundColor: "#C9963A", color: "white" }}
           >
@@ -95,7 +97,9 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="#telecharger"
+            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-5 py-2.5 rounded-xl text-sm font-semibold text-center mt-2"
             style={{ backgroundColor: "#C9963A", color: "white" }}
             onClick={() => setOpen(false)}

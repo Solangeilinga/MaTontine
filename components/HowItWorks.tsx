@@ -176,7 +176,9 @@ export default function HowItWorks() {
             Créez votre premier groupe en moins de 2 minutes.
           </p>
           <a
-            href="#telecharger"
+            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block px-8 py-3.5 rounded-xl font-bold text-white transition-all hover:opacity-90"
             style={{ backgroundColor: "#1B6B3A" }}
           >

@@ -92,7 +92,9 @@ export default function ForWho() {
               </ul>
 
               <a
-                href="#telecharger"
+                href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block mt-10 px-6 py-3 rounded-xl font-bold text-sm transition-all hover:opacity-90"
                 style={{ backgroundColor: "#C9963A", color: "white" }}
               >
@@ -175,7 +177,9 @@ export default function ForWho() {
               </ul>
 
               <a
-                href="#telecharger"
+                href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block mt-10 px-6 py-3 rounded-xl font-bold text-sm transition-all hover:opacity-90"
                 style={{ backgroundColor: "#1B6B3A", color: "white" }}
               >

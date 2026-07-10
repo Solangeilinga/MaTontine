@@ -44,7 +44,9 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="#telecharger"
+                href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-8 py-4 rounded-2xl font-bold text-white text-center transition-all hover:opacity-90 active:scale-95"
                 style={{ backgroundColor: "#C9963A" }}
               >

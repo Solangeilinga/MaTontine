@@ -38,7 +38,9 @@ export default function Download() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
           {/* Android */}
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-4 px-8 py-5 rounded-2xl transition-all hover:opacity-90 active:scale-95"
             style={{ backgroundColor: "white" }}
           >
