@@ -39,7 +39,7 @@ export default function Footer() {
                 { label: "Fonctionnalités", href: "#fonctionnalites" },
                 { label: "Comment ça marche", href: "#comment-ca-marche" },
                 { label: "Pour qui", href: "#pour-qui" },
-                { label: "Télécharger", href: "https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing" },
+                { label: "Télécharger", href: "https://drive.google.com/file/d/1EBbmFX0No5KkzqduPnmxt-2J1mwsr8xM/view?usp=sharing" },
               ].map((link) => (
                 <li key={link.label}>
                   <a

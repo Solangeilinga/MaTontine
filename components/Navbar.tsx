@@ -52,7 +52,7 @@ export default function Navbar() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            href="https://drive.google.com/file/d/1EBbmFX0No5KkzqduPnmxt-2J1mwsr8xM/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2 rounded-xl text-sm font-semibold transition-all"
@@ -97,7 +97,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1YMp_XfOttM6lmjWWAHHQwqkYsW_lok0f/view?usp=sharing"
+            href="https://drive.google.com/file/d/1EBbmFX0No5KkzqduPnmxt-2J1mwsr8xM/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2.5 rounded-xl text-sm font-semibold text-center mt-2"
