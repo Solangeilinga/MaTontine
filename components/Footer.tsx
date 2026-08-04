@@ -87,18 +87,20 @@ export default function Footer() {
             © {year} MaTontine. Tous droits réservés.
           </p>
           <div className="flex gap-6">
-            {["Confidentialité", "Conditions d'utilisation", "Contact"].map(
-              (item) => (
-                <a
-                  key={item}
-                  href="#"
-                  className="text-xs transition-colors hover:text-white"
-                  style={{ color: "rgba(255,255,255,0.35)" }}
-                >
-                  {item}
-                </a>
-              )
-            )}
+            {[
+              { label: "Confidentialité", href: "/privacy" },
+              { label: "Supprimer mon compte", href: "/delete-account" },
+              { label: "Contact", href: "mailto:contact@matontine.app" },
+            ].map((item) => (
+              <a
+                key={item.label}
+                href={item.href}
+                className="text-xs transition-colors hover:text-white"
+                style={{ color: "rgba(255,255,255,0.35)" }}
+              >
+                {item.label}
+              </a>
+            ))}
           </div>
         </div>
       </div>

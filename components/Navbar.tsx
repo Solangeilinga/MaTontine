@@ -104,7 +104,7 @@ export default function Navbar() {
             style={{ backgroundColor: "#C9963A", color: "white" }}
             onClick={() => setOpen(false)}
           >
-            Télécharger l'application
+            Télécharger l&apos;application
           </a>
         </div>
       )}
