@@ -90,7 +90,7 @@ export default function Footer() {
             {[
               { label: "Confidentialité", href: "/privacy" },
               { label: "Supprimer mon compte", href: "/delete-account" },
-              { label: "Contact", href: "mailto:contact@matontine.app" },
+              { label: "Contact", href: "mailto:solangeilinga@gmail.com" },
             ].map((item) => (
               <a
                 key={item.label}

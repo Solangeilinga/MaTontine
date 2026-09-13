@@ -16,8 +16,8 @@ const sections = [
         MaTontine est éditée à des fins de gestion de groupes d&apos;épargne
         rotative (tontines) en Afrique de l&apos;Ouest et Centrale. Pour toute
         question relative à vos données, contactez-nous à{" "}
-        <a href="mailto:contact@matontine.app" className="underline" style={{ color: "#1B6B3A" }}>
-          contact@matontine.app
+        <a href="mailto:solangeilinga@gmail.com" className="underline" style={{ color: "#1B6B3A" }}>
+          solangeilinga@gmail.com
         </a>
         .
       </p>
@@ -147,8 +147,8 @@ const sections = [
     body: (
       <p>
         Pour toute question sur cette politique ou vos données personnelles :{" "}
-        <a href="mailto:contact@matontine.app" className="underline" style={{ color: "#1B6B3A" }}>
-          contact@matontine.app
+        <a href="mailto:solangeilinga@gmail.com" className="underline" style={{ color: "#1B6B3A" }}>
+          solangeilinga@gmail.com
         </a>
       </p>
     ),
